@@ -12,8 +12,8 @@ It helps you manage your tasks with features like priority filtering, night mode
 Live link - https://task-manager-rfo2.onrender.com
 ---
 demo login credentials  
-gmail = test@gmail.com
-pass - 123456789
+gmail = admin@gmail.com
+pass - admin123
 ---
 
 ## 🚀 Features
